@@ -46,6 +46,4 @@ AI-powered roof image analysis for area and tilt detection.
 
 Developed by: Charvi / z
 Email: techxharvi@gmail.com
-Graphics / Animation	Three.js, Vanta.js
-Icons	Font Awesome
-Fonts	Comfortaa, Quicksand, Playfair Display, Merriweather
+
