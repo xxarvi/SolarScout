@@ -37,7 +37,7 @@ View real-time analysis of potential solar output, savings, and carbon reduction
 Compare solar energy costs with traditional electricity rates.
 
 **#Future Enhancements**
-Integration with NASA’s POWER API for accurate solar irradiation data.
+Integration with NASA’s POWER API for more accurate solar irradiation data.
 AI-powered roof image analysis for area and tilt detection.
 
 
